@@ -94,5 +94,5 @@ On the online courses of Hexlet in the direction of "Python developer" I studied
   </tr>
 </table>
 
-📈 Statistics 
-[![iKogep23 GitHub stats](https://github-readme-stats.vercel.app/api?username=iKogep23&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/iKogep23)
+
+[![📈 iKogep23 GitHub stats](https://github-readme-stats.vercel.app/api?username=iKogep23&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/iKogep23)
