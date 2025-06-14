@@ -35,14 +35,20 @@ Here are some ideas to get you started:
       </a>
       <br>Visual Studio Code
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="96">
+      <a href="#iKogep23-tech">
+        <img src="./img/git-96.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
     <td align="center" width="96">
       <a href="#iKogep23-tech">
         <img src="./img/python-100.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#iKogep23-tech">
         <img src="./img/html-96.png" width="48" height="48" alt="HTML" />
@@ -55,8 +61,6 @@ Here are some ideas to get you started:
       </a>
       <br>CSS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#iKogep23-tech">
         <img src="./img/postgresql-96.png" width="48" height="48" alt="PostgreSQL" />
