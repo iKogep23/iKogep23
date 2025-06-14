@@ -20,7 +20,7 @@ In 2011, I graduated from Kuban State Technological University, Krasnodar, Facul
 
 On the online courses of Hexlet in the direction of "Python developer" I studied: Python, HTML, CSS, PostgreSQL, FLASK
 
-I’m currently learning Django REST framework
+- 🌱 I’m currently learning Django REST framework
 
 
 <h2 align="left" id="iKogep23-tech">Favorite Tech</h2>
@@ -93,3 +93,6 @@ I’m currently learning Django REST framework
     </td>
   </tr>
 </table>
+
+📈 Statistics 
+[![iKogep23 GitHub stats](https://github-readme-stats.vercel.app/api?username=iKogep23&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/iKogep23)
