@@ -31,6 +31,14 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#iKogep23-tech">
+        <img src="./img/visual-studio-code-2019-100.png" width="48" height="48" alt="Visual Studio Code" />
+      </a>
+      <br>Visual Studio Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#iKogep23-tech">
         <img src="./img/python-100.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -47,9 +55,11 @@ Here are some ideas to get you started:
       </a>
       <br>CSS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#iKogep23-tech">
-        <img src="./img/postgreSQL-96.png" width="48" height="48" alt="PostgreSQL" />
+        <img src="./img/postgresql-96.png" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
@@ -61,15 +71,9 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#iKogep23-tech">
-        <img src="./img/Django_REST.png" width="48" height="48" alt="Django REST Framework" />
+        <img src="./img/Django_REST.png" width="48" height="48" alt="Django REST" />
       </a>
-      <br>Django REST Framework
-    </td>
-    <td align="center" width="96">
-      <a href="#iKogep23-tech">
-        <img src="./img/visual-studio-code-2019-100.png" width="48" height="48" alt="Visual Studio Code" />
-      </a>
-      <br>Visual Studio Code
+      <br>Django REST
     </td>
   </tr>
 </table>
