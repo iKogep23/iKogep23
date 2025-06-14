@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-In 2011, I graduated from Kuban State Technological University, Krasnodar, Faculty of Computer Technologies and Automated Systems, in the direction of software for computer technology and automated systems (engineer).
+- 👨‍🎓 In 2011, I graduated from Kuban State Technological University, Krasnodar, Faculty of Computer Technologies and Automated Systems, in the direction of software for computer technology and automated systems (engineer).
 
-On the online courses of Hexlet in the direction of "Python developer" I studied: Python, HTML, CSS, PostgreSQL, FLASK
+- 🧑‍💻 On the online courses of Hexlet in the direction of "Python developer" I studied: Python, HTML, CSS, PostgreSQL, FLASK
 
-- 🌱 I’m currently learning Django REST framework
+- 📘 I’m currently learning Django REST framework
 
 
 <h2 align="left" id="iKogep23-tech">Favorite Tech</h2>
