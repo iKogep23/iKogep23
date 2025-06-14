@@ -15,7 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
+
+In 2011, I graduated from Kuban State Technological University, Krasnodar, Faculty of Computer Technologies and Automated Systems, in the direction of software for computer technology and automated systems (engineer).
+
+On the online courses of Hexlet in the direction of "Python developer" I studied: Python, HTML, CSS, PostgreSQL, FLASK
+
+I’m currently learning Django REST framework
+
+
+<h2 align="left" id="iKogep23-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#iKogep23-tech">
