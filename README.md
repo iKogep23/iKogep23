@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#iKogep23-tech">
+        <img src="./img/python-96.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+</table><table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#iKogep23-tech">
+        <img src="./img/python-96.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+</table>
