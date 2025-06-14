@@ -49,7 +49,7 @@ I’m currently learning Django REST framework
     </td>
     <td align="center" width="96">
       <a href="#iKogep23-tech">
-        <img src="./img/git-96.png" width="64" height="48" alt="Git" />
+        <img src="./img/git-96.png" width="64" height="64" alt="Git" />
       </a>
       <br>Git
     </td>
